@@ -2,7 +2,7 @@
 layout: post
 title: WELCOME
 ---
-#WELCOME
+WELCOME
 
 I am a PhD student in Data Analytics and Society at the University of Manchester. 
 
