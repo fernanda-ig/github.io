@@ -1,10 +1,10 @@
 ---
 layout: post
 title: My web site
-categories: [Biography, Projects]
-tags: [data, analysis]
 ---
 WELCOME
+
+![My helpful screenshot](/assets/photo.jpg)
 
 I am a PhD student in Data Analytics and Society at the University of Manchester. 
 
@@ -14,4 +14,4 @@ I worked at Universidad Iberoamericana’s Institute of Research for Development
 
 I have a profound concern about local and global social problems and my experience convinced me that the data collected by governments and organizations must be wisely used in making decisions to solve those social problems, benefiting most vulnerable people. Hence, I decided to focus my professional life on contributing to produce knowledge through statistics and data analysis as a crucial way to come to a better understanding of social problems’ roots and historical patterns which could help to solve them.
 
-![My helpful screenshot](/assets/Foto.jpg)
+
