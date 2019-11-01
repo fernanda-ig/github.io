@@ -2,10 +2,9 @@
 WELCOME
 ---
 
-
 I am a PhD student in Data Analytics and Society at the University of Manchester. 
 
-My research is focus on understanding pension accumulation using Data Analytics. I hold a bachelor’s degree in Actuarial Science from the National Autonomous University of Mexico (UNAM). 
+My research is focus on Understanding pension accumulation using Data Analytics. I hold a bachelor’s degree in Actuarial Science from the National Autonomous University of Mexico (UNAM). 
 
 I worked at Universidad Iberoamericana’s Institute of Research for Development with Equity (EQUIDE), doing quantitative and qualitative research about poverty, equity and public policies. Also, I worked in Mexico’s National Institute of Statistics and Geography (INEGI), analysing surveys, censuses and administrative databases, to validate and propose indicators about several social issues such as security, education, violence against women and economy. Also, I worked at the Bank of Mexico (Banxico) assessing operative risk by compile, systematise and analyse information. 
 
