@@ -1,5 +1,8 @@
 ---
-title: WELCOME
+layout: post
+title: My web site
+categories: [Biography, Projects]
+tags: [data, analysis]
 ---
 WELCOME
 
