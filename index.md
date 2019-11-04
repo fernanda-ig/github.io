@@ -1,5 +1,5 @@
 ---
-layout: Dinky 
+layout: default 
 title: My web site
 ---
 WELCOME
