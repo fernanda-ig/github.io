@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default 
 title: My web site
 ---
 WELCOME
