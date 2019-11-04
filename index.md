@@ -4,7 +4,7 @@ title: My web site
 ---
 WELCOME
 
-![My helpful screenshot](/assets/screenshot.jpg)
+![My helpful screenshot](/assets/photo.jpg)
 
 I am a PhD student in Data Analytics and Society at the University of Manchester. 
 
