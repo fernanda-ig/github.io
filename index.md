@@ -4,6 +4,8 @@ title: My web site
 ---
 WELCOME
 
+![My helpful screenshot](/assets/photo.jpg)
+
 I am a PhD student in Data Analytics and Society at the University of Manchester. 
 
 My research is focus on Understanding pension accumulation using Data Analytics. I hold a bachelor’s degree in Actuarial Science from the National Autonomous University of Mexico (UNAM). 
@@ -14,3 +16,4 @@ I have a profound concern about local and global social problems and my experien
 
 For further information, you can dowload my [CV](/assets/CV.pdf) directly.
 
+Now, I will present to you the next project.
