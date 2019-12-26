@@ -17,4 +17,4 @@ I have a profound concern about local and global social problems and my experien
 
 **Project porfolio.**
 
-* [Agente Based Model](/ABM.md)(based on the module GEOG5995 Programming for Social Scientists: Core Skills)
+* [Agente Based Model](/ABM.md) (based on the module GEOG5995 Programming for Social Scientists: Core Skills)
