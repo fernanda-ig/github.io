@@ -17,5 +17,5 @@ On one hand, omnivorous people were able to move around their environment and at
 
 In order to build this model, firstly I defined the variables which were the input to run my model. In this sense, I established that this city had a population of 15 persons. Then I determined that 10 of them had an omnivore diet and 5 of them had a vegetarian diet. Then, I defined that the total omnivorous individuals were open to change their dietary pattern to vegetarianism, therefore I set 10 available positions to be converted -coded as num_of_chased- as a new vegetarian. Even though, the complete population of omnivorous were able to adopt vegetarianism I set a condition that protected them to be influenced, which was a safety area of 20 -coded as ep_area-. In other words, this area was the maximum distance in which vegetarian individuals were not able to influence omnivorous individuals.
 
-
+![fig_1](/assets/fig_1.jpg)
 
