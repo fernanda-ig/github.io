@@ -37,7 +37,7 @@ In the third place, I established the stopping condition to the model when veget
 
 The next graphic depicts one trial of the city dynamics. In order to interpret the graphic, it is necessary to note that the plus marker in red represents omnivorous individuals which are four, then the diamonds marker in green represents vegetarian individuals which remain at the same level as it was defined at the beginning of the script, five, and finally the thin diamonds marker in blue describes the 6 omnivorous individuals that were pursued to transit towards a vegetarian diet.
 
-![fig_6](/assets/fig_6.jpeg)
+![fig_6](/assets/fig_6.jpg)
 
 Finally, if you want to run my code or based on it to build another Agent-Based Model you can access to my repository. There are two script files regarding the model, one of them called *agent framework*, in which I established the behaviours for each agent and another file that is called *model* in which I defined the rest of the model.
 
