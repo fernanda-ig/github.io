@@ -2,7 +2,7 @@
 layout: default 
 title: Agent-Based Model
 ---
-**Agent-Based Model: Transition to vegetarianism.**
+**Agent-Based Model: Transition to vegetarianism**
 ======
 
 An Agent-Based Model is a technique used to analyse individuals’ behaviours and interactions of entities, usually called as agents, inside a specific area, also called environment, between the repetition of their interrelations they emulate a specific system. These kinds of modelling techniques are commonly used to understand complex phenomenon of real-life situations (Bonabeau, 2002).
@@ -39,8 +39,10 @@ Finally, the next graphs depicts two independent trials of the city dynamics, in
 
 You are welcome to run my code or based on it to build another Agent-Based Model by accessing to my [repository](https://github.com/fernanda-ig/github.io/tree/master/repository). I have commented on it in order to help you to understand it. There are two script files regarding the model, one of them called *agent framework*, in which I established the behaviours for each agent and another file that is called *model* in which I defined the rest of the model. Also, there is a third file called *in*, which has the environmental data. Be aware that in order to run the model you must save the three files in the same repository.
 
-**Note:** It is important to highlight that the Agent-Based Model that I presented here, was a hypothetical example which is not entirely supported by scientific evidence regarding dietary transitions from omnivorous diet to a vegetarian diet. 
+**Note:** It is important to highlight that the Agent-Based Model that I presented here, was a hypothetical example which is not entirely supported by scientific evidence regarding dietary transitions from omnivorous diet to a vegetarian diet.
+
 **References.**
+
 1. Bonabeau, E., 2002. Agent-based modeling: Methods and techniques for simulating human systems. Proc. Natl. Acad. Sci. 99, 7280–7287. https://doi.org/10.1073/pnas.082080899
 2. Salonen, A.O., Helne, T.T., 2012. Vegetarian Diets: A Way towards a Sustainable Society. J. Sustain. Dev. 5, p10. https://doi.org/10.5539/jsd.v5n6p10
 3. University of Leeds, 2019. Programming for Social Science: Core Skills. URL https://www.geog.leeds.ac.uk/courses/computing/study/core-python-phd/
